@@ -2,4 +2,4 @@
 
 ## Chat developed with socket.io and nodejs
 
-### Start application with the command 'npm run dev'start application with the command 'npm run dev'
+### Start application with the command 'npm run dev'
